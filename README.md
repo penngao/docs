@@ -9,7 +9,7 @@
 记录 coding 过程中遇到的趣事。
 
 * [如何安装 scoop](blog/install_scoop/)
-* 如何安装 docsify
+* [如何安装 docsify](blog/install_docsify/)
 
 ## 兴趣
 
