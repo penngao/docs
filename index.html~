@@ -15,7 +15,8 @@
 	    name: '',
 	    repo: '',
 	    loadSidebar: true,
-	    maxLevel: 3
+	    maxLevel: 3,
+	    relativePath: true
 
     }
   </script>

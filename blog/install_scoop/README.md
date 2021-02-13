@@ -32,9 +32,10 @@ iwr -useb get.scoop.sh | iex
 
 一旦安装成功，运行 `scoop help` 验证是否成功。
 
-<div align=scoop help>
-    <img width="300" src="../blog/install_scoop/assets/scoop help.JPG">
+<div align=center>
+    <img width="300" src="./blog/install_scoop/assets/scoop help.JPG">
 </div>
+
 
 用户安装的程序和 scoop 本身位于 `c:\Users\<user>\scoop` 。全局安装的程序（`--global`）位于 `c:\ProgramData\scoop`。可以通过环境变量更改这些设置。具体步骤如下：
 

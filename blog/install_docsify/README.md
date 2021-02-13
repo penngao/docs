@@ -47,8 +47,8 @@
 
 14. 在 GitHub 中 docs 仓库点击 Settings，找到 GitHub Pages 按如下方式进行设置
 
-    <div align=GitHub Pages>
-        <img width="300" src="../blog/install_docsify/assets/GitHub Pages.JPG">
+    <div align=center>
+        <img width="300" src="./blog/install_docsify/asserts/GitHub Pages.JPG">
     </div>
 
 15. 在 https://yourname.github.io/docs/ 进行访问
